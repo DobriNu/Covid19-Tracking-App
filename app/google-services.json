@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716868819413",
+    "project_id": "coveeed19app-v1---database",
+    "storage_bucket": "coveeed19app-v1---database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716868819413:android:b22bf17a147ce6aabe055c",
+        "android_client_info": {
+          "package_name": "com.example.coveeed19app_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716868819413-6h111er11oopumjgqn9e4gsbl8uq19vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqH6tY6sAgK6aCuYAUnFBVg9VGhbC6eN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716868819413-6h111er11oopumjgqn9e4gsbl8uq19vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
